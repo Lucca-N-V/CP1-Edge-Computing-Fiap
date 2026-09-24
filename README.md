@@ -37,7 +37,7 @@ O aparelho fica no escuro onde constantemente mede a quantidade luminosa pelo LD
 
 O aparelho deverá ficar dentro de um quarto, prioritariamente escuro, e te informara, por meio dos LEDS buzzer e LCD, a porcentagem luminosa do quarto em questão, sendo assim um sensor luminoso focado no escuro, te alertando caso os níveis de iluminação estiverem alto.
 
-**Autores
+## Autores
 Leandro Rodrigues Barbosa
 
 Eduardo Miranda Mororo
