@@ -28,7 +28,7 @@ Para a criação deste aparelho, utilizamos as seguintes tecnologias:
 * Wokwi
 * Tinkercad
 * Arduino IDE
-* 
+  
 ## Como funciona
 
 O aparelho fica no escuro onde constantemente mede a quantidade luminosa pelo LDR. Caso a iluminação chegue em níveis próximos a inadequados o LED amarelo acendera e o buzzer tocara até a porcentagem luminosa mudar. Caso o nível de luz ficar nos parâmetros inaceitáveis somente o LED vermelho acenderá até alguma mudança, e se os níveis estiverem dentro do padrão somente o LED verde acenderá até alguma mudança.  
@@ -44,6 +44,6 @@ Eduardo Miranda Mororo
 
 Lucca Neufeld Vecchiatti
 
-Victor krause Esteves
+Victor Krause Esteves
 
 Henrique Nascimento
